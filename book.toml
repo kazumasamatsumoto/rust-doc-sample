@@ -1,0 +1,9 @@
+[book]
+authors = ["kazumasamatsumoto"]
+language = "en"
+multilingual = false
+src = "src"
+title = "rust-sdk-how-to"
+
+[output.html]
+mathjax-support = true
